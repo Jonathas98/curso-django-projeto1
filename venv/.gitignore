@@ -1,1 +1,6 @@
 venv
+config
+description
+HEAD
+applypatch-msg.sample
+commit-msg.sample
