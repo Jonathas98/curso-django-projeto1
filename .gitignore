@@ -6,3 +6,5 @@ refs
 config
 description
 HEAD
+venv
+
